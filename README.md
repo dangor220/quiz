@@ -1,3 +1,8 @@
-# quiz
-Practice from GloAcademy. Burger-Quiz.
-https://dangor220.github.io/quiz/
+Quiz-burger
+Видеоуроки
+
+Технологии в проекте:
+* HTML
+* CSS
+* JS
+* Bootstrap
