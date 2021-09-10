@@ -1,8 +1,8 @@
 Quiz-burger
 Видеоуроки
 
-* Технологии в проекте:
-* ** HTML
-* ** CSS
-* ** JS
-* ** Bootstrap
+Технологии в проекте:
+* HTML
+* CSS
+* JS
+* Bootstrap
