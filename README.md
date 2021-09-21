@@ -1,7 +1,7 @@
 Quiz-burger
 Видеоуроки
 
-Технологии в проекте:
+Technologies:
 * HTML
 * CSS
 * JS
